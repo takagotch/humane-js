@@ -3,7 +3,7 @@
 https://github.com/wavded/humane-js
 
 
-```
+```sh
 npm install --development
 npm run watch
 ```
